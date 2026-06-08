@@ -1,0 +1,21 @@
+[
+  "psql",
+  "psql -c",
+  "psql -f",
+  "psql --command",
+  "psql --file",
+  "mysql",
+  "mysql -e",
+  "mysql --execute",
+  "sqlite3",
+  "snow sql",
+  "snow sql -q",
+  "snow sql -f",
+  "snow sql --query",
+  "snow sql --filename",
+  "snowsql",
+  "snowsql -q",
+  "snowsql -f",
+  "snowsql --query",
+  "pg_restore"
+]
